@@ -6,3 +6,5 @@ Script Features
 -Give Crates (premium included)
 -Open All doors
 -More Coming soon!
+
+Last Updated: 3/21/2025
